@@ -1,3 +1,4 @@
 new file added for feature2
 modified by develop3
 modified by developer2
+hot fix in master
