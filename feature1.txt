@@ -1,0 +1,2 @@
+new file added for feature1
+last minute fix for release v1.0
